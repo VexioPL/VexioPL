@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VexioPL
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript, C#, Electron=
-- 📫 kontakt@vexio.tk
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java, JavaScript, C#, Electron
+- 📫 Contact me here https://cm-pack.pl/discord
 
 <!---
 VexioPL/VexioPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
